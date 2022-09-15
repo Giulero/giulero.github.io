@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Giuseppe L'Erario # Website name
-baseURL: 'https://Giulero.github.io' # Website URL
+baseURL: 'https://giulero.github.io' # Website URL
 
 ############################
 ## LANGUAGE
