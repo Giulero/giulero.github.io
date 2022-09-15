@@ -49,13 +49,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://ieeexplore.ieee.org/iel7/9811522/9811357/09811670.pdf'
-url_code: ''
+url_code: 'https://github.com/ami-iit/paper_romualdi_2022_icra_centroidal-mpc-walking'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=u7vCgE2w_vY9'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

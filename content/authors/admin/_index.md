@@ -44,6 +44,6 @@ highlight_name: true
 
 Giuseppe received a bachelor’s degree in aerospace engineering and a master’s degree in artificial intelligence and robotics from the Sapienza University of Rome, Rome, Italy, in 2015 and 2019,  respectively. ﻿He conducted his master thesis with the Dynamic Interaction and Control Lab, IIT, focusing on the modeling, identification, and control of small-scale jet engines, in the context of the iRonCub project, whose aim is to create the first jet-powered flying humanoid robot.
 
- He is currently a Ph.D. student. at the University of Manchester, researching on the application of optimal control and planning for aerial humanoid robotics locomotion.
+He is currently a Ph.D. student. at the University of Manchester, researching on the application of optimal control and planning for aerial humanoid robotics locomotion.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

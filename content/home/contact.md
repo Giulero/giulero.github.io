@@ -25,14 +25,14 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: giuseppe.lerario@iit.it
+  email: giuseppe.lerario at iit.it
   phone: +39 3888947158
-  # address:
-  #   street: 450 Serra Mall
-  #   city: Stanford
+  address:
+    street: Via San Quirico 19D
+    city: Genova, GE
   #   region: CA
-  #   postcode: '94305'
-  #   country: United States
+    postcode: '16163'
+    country: Italy
   #   country_code: US
   # coordinates:
   #   latitude: '37.4275'

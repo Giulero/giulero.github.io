@@ -48,13 +48,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9793615'
-url_code: ''
+url_code: 'https://github.com/ami-iit/paper_bergonti_2022_tro_kinematics-control-morphingcovers'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=kMfXb2xqGn4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -68,8 +68,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#   - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
