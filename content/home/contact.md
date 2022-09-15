@@ -25,8 +25,8 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: giuseppe.lerario at iit.it
-  phone: +39 3888947158
+  email: giuseppe.lerario(at)iit.it
+  phone: +39 010 2898254
   address:
     street: Via San Quirico 19D
     city: Genova, GE

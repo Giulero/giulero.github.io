@@ -46,4 +46,4 @@ Giuseppe received a bachelor’s degree in aerospace engineering and a master’
 
 He is currently a Ph.D. student. at the University of Manchester, researching on the application of optimal control and planning for aerial humanoid robotics locomotion.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}cv{{< /staticref >}}.
