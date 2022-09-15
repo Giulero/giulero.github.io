@@ -7,7 +7,7 @@ title: 'Dynamic control of a rigid pneumatic gripper'
 authors:
   - Rocco Antonio Romeo
   - Luca Fiorio
-  - Giuseppe L’Erario
+  - admin
   - Marco Maggiali
   - Giorgio Metta
   - Daniele Pucci

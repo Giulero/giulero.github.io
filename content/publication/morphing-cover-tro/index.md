@@ -7,7 +7,7 @@ title: 'Modeling and Control of Morphing Covers for the Adaptive Morphology of H
 authors:
   - Fabio Bergonti
   - Gabriele Nava
-  - Giuseppe L’Erario
+  - admin
   - Luca Fiorio
   - Daniele Pucci
   -

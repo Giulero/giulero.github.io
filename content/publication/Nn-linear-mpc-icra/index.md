@@ -7,7 +7,7 @@ title: 'Online non-linear centroidal MPC for humanoid robot locomotion with step
 authors:
   - Romualdi Giulio
   - Stefano Dafarra
-  - Giuseppe L’Erario
+  - admin
   - Ines Sorrentino
   - Silvio Traversaro
   - Daniele Pucci

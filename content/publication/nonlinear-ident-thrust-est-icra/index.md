@@ -7,7 +7,7 @@ title: 'Nonlinear Model Identification and Observer Design for Thrust Estimation
 authors:
   - Affaf Junaid Ahamad Momin
   - Gabriele Nava
-  - Giuseppe L’Erario
+  - admin
   - Hosameldin Awadalla Omer Mohamed
   - Fabio Bergonti
   - Punith Reddy Vanteddu

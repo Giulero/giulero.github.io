@@ -7,7 +7,7 @@ title: 'Momentum-based extended Kalman filter for thrust estimation on flying mu
 authors:
   - Hosameldin Awadalla Omer Mohamed
   - Gabriele Nava
-  - Giuseppe L’Erario
+  - admin
   - Silvio Traversaro
   - Fabio Bergonti
   - Luca Fiorio

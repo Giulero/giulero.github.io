@@ -5,7 +5,7 @@ title: 'Modeling, identification and control of model jet engines for jet powere
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Giuseppe L’Erario
+  - admin
   - Luca Fiorio
   - Gabriele Nava
   - Fabio Bergonti

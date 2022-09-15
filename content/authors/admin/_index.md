@@ -1,15 +1,18 @@
 ---
 title: Giuseppe L'Erario
+
 role: Ph.D. student
+
 bio: I'm mostly interested in control/optimization/estimation and anything related to robotics robot 🤖
+
 interests:
   - Robotics 🤖
-  - Optimization
-  - Estimation and SLAM
-  - Football
-  - Photography
-  - Drawing
-  - Cooking
+  - Optimization 🪄
+  - Estimation and SLAM 🌍
+  - Football ⚽
+  - Photography 📷
+  - Drawing 🖌️
+  - Cooking 🍝
 social:
   - icon: envelope
     icon_pack: fas

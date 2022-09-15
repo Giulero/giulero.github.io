@@ -8,7 +8,7 @@ authors:
   - Tong Hui
   - Antonello Paolino
   - Gabriele Nava
-  - Giuseppe L’Erario
+  - admin
   - Fabio Di Natale
   - Fabio Bergonti
   - Francesco Braghin
