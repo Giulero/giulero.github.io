@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://Giulero.github.io/sitemap.xml
+Sitemap: https://giulero.github.io/sitemap.xml
