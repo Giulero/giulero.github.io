@@ -28,7 +28,7 @@ organizations:
     url: https://ami.iit.it/
 education:
   courses:
-    - course: PhD
+    - course: PhD Candidate
       institution: University of Manchester
       year: Present
     - course: MSc in Artificial Intelligence and Robotics
@@ -41,10 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
 
 Giuseppe received a bachelor’s degree in aerospace engineering and a master’s degree in artificial intelligence and robotics from the Sapienza University of Rome, Rome, Italy, in 2015 and 2019,  respectively. ﻿He conducted his master thesis with the Dynamic Interaction and Control Lab, IIT, focusing on the modeling, identification, and control of small-scale jet engines, in the context of the iRonCub project, whose aim is to create the first jet-powered flying humanoid robot.
 
