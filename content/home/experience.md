@@ -59,13 +59,13 @@ experience:
 
   - title: SPQR@Work team member
     company: Sapienza Università di Roma
-    company_url: 'http://spqr.diag.uniroma1.it/'
+    company_url: 'https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home'
     # company_logo: org-gc
     location: Roma, Italy
     date_start: '2017-10-01'
     date_end: '2019-02-01'
     description: |2-
-        Developing the navigation module for the SPQR@Work team, a spin‑off of the S.P.Q.R. RoboCup team.
+        Developing the navigation module for the [SPQR@Work team](http://spqr.diag.uniroma1.it/), a spin‑off of the S.P.Q.R. RoboCup team.
 
 design:
   columns: '2'
