@@ -65,7 +65,7 @@ experience:
     date_start: '2017-10-01'
     date_end: '2019-02-01'
     description: |2-
-        Working in the context of the [iRonCub](https://ami.iit.it/aerial-humanoid-robotics) project under the supervision of Dr. Daniele Pucci, for my master thesis.
+        Developing the navigation module for the SPQR@Work team, a spin‑off of the S.P.Q.R. RoboCup team.
 
 design:
   columns: '2'
