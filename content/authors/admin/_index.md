@@ -45,7 +45,7 @@ superuser: true
 highlight_name: true
 ---
 
-I've received a bachelor’s degree in aerospace engineering and a master’s degree in artificial intelligence and robotics from the Sapienza University of Rome, Rome, Italy, in 2015 and 2019,  respectively. I conducted my master thesis with the [Artificial and Mechanical Intelligence Lab](https://ami.iit.it/) at IIT, focusing on the modeling, identification, and control of small-scale jet engines, in the context of the iRonCub project, whose aim is to create the first jet-powered flying humanoid robot.
+I've received a bachelor’s degree in aerospace engineering and a master’s degree in artificial intelligence and robotics from Sapienza University of Rome, Rome, Italy, in 2015 and 2019,  respectively. I conducted my master thesis with the [Artificial and Mechanical Intelligence Lab](https://ami.iit.it/) at IIT, focusing on the modeling, identification, and control of small-scale jet engines, in the context of the iRonCub project, whose aim is to create the first jet-powered flying humanoid robot.
 
 I am currently a Ph.D. student. at the University of Manchester, researching on the application of optimal control and planning for aerial humanoid robotics locomotion, working in the Artificial and Mechanical Intelligence Lab under the supervision of Dr. Daniele Pucci.
 

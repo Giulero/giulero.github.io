@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Ph.D. Research Fellow at Artificial and Intelligence Lab
-    company: Istituto Italiano di Tecnoligia
+    company: Istituto Italiano di Tecnologia
     company_url: 'https://www.iit.it/it/home'
     # company_logo: org-gc
     location: Genova, Italy
@@ -37,7 +37,7 @@ experience:
         - Sw development
 
   - title: Research Fellow at Artificial and Intelligence Lab
-    company: Istituto Italiano di Tecnoligia
+    company: Istituto Italiano di Tecnologia
     company_url: 'https://www.iit.it/it/home'
     # company_logo: org-gc
     location: Genova, Italy
@@ -47,7 +47,7 @@ experience:
         Working in the context of the [iRonCub](https://ami.iit.it/aerial-humanoid-robotics) project under the supervision of Dr. Daniele Pucci, for my master thesis.
 
   - title: Visiting student at Artificial and Intelligence Lab
-    company: Istituto Italiano di Tecnoligia
+    company: Istituto Italiano di Tecnologia
     company_url: 'https://www.iit.it/it/home'
     # company_logo: org-gc
     location: Genova, Italy
