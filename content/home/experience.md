@@ -21,6 +21,17 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+experience:
+  - title: Visiting Ph.D. Student at Robotics and Perception Group
+    company: University of Zurich
+    company_url: 'https://rpg.ifi.uzh.ch/'
+    # company_logo: org-gc
+    location: Zurich, Switzerland
+    date_start: '2023-02-01'
+    date_end: ''
+    # description: |2-
+        
 experience:
   - title: Ph.D. Research Fellow at Artificial and Intelligence Lab
     company: Istituto Italiano di Tecnologia
