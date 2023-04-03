@@ -31,6 +31,9 @@ organizations:
     url: https://ami.iit.it/
 education:
   courses:
+    - course: Visiting PhD Student
+      institution: [Robotics and Perception Group](https://rpg.ifi.uzh.ch/index.html), University of Zurich
+      year: 2023
     - course: PhD Candidate
       institution: University of Manchester
       year: Present
