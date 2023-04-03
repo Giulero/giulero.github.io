@@ -32,7 +32,7 @@ organizations:
 education:
   courses:
     - course: Visiting PhD Student
-      institution: [Robotics and Perception Group](https://rpg.ifi.uzh.ch/index.html) - University of Zurich
+      institution: Robotics and Perception Group - University of Zurich
       year: 2023
     - course: PhD Candidate
       institution: University of Manchester
