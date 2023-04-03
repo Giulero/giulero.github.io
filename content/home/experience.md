@@ -30,7 +30,8 @@ experience:
     location: Zurich, Switzerland
     date_start: '2023-02-01'
     date_end: ''
-    # description: |2-
+    description: |2-
+        Under the supervision of Prof. Davide Scaramuzza
         
 experience:
   - title: Ph.D. Research Fellow at Artificial and Intelligence Lab
