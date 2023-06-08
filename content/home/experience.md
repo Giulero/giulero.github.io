@@ -32,9 +32,9 @@ experience:
     date_end: ''
     description: |2-
         Under the supervision of Prof. Davide Scaramuzza
-        
+
 experience:
-  - title: Ph.D. Research Fellow at Artificial and Intelligence Lab
+  - title: Ph.D. Research Fellow at the Artificial and Mechanical Intelligence Lab
     company: Istituto Italiano di Tecnologia
     company_url: 'https://www.iit.it/it/home'
     # company_logo: org-gc
@@ -48,7 +48,7 @@ experience:
         - Simulation
         - Sw development
 
-  - title: Research Fellow at Artificial and Intelligence Lab
+  - title: Research Fellow at the Artificial and Mechanical Intelligence Lab
     company: Istituto Italiano di Tecnologia
     company_url: 'https://www.iit.it/it/home'
     # company_logo: org-gc
