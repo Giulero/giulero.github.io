@@ -58,7 +58,7 @@ experience:
     description: |2-
         Working in the context of the [iRonCub](https://ami.iit.it/aerial-humanoid-robotics) project under the supervision of Dr. Daniele Pucci, for my master thesis.
 
-  - title: Visiting student at Artificial and Intelligence Lab
+  - title: Visiting student at the Artificial and Mechanical Intelligence Lab
     company: Istituto Italiano di Tecnologia
     company_url: 'https://www.iit.it/it/home'
     # company_logo: org-gc
