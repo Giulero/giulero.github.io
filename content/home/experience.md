@@ -22,6 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
+
 experience:
   - title: Visiting Ph.D. Student at Robotics and Perception Group
     company: University of Zurich
@@ -33,7 +34,6 @@ experience:
     description: |2-
         Under the supervision of Prof. Davide Scaramuzza
 
-experience:
   - title: Ph.D. Research Fellow at the Artificial and Mechanical Intelligence Lab
     company: Istituto Italiano di Tecnologia
     company_url: 'https://www.iit.it/it/home'

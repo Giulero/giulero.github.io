@@ -6,7 +6,7 @@ tags:
 # date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://github.com/ami-iit/ADAM'
+external_link: 'https://github.com/ami-iit/matlab-whole-body-simulator'
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -16,7 +16,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Link
-    url: https://github.com/ami-iit/ADAM
+    url: https://github.com/ami-iit/matlab-whole-body-simulator
 url_code: ''
 url_pdf: ''
 url_slides: ''
